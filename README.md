@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on AI
-- 📫 you can reach me @ https://wa.me/918007578822
+- 📫 you can reach me @ https://wa.me/91
 
 <!---
 Imranjsayyad/Imranjsayyad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
